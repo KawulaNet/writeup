@@ -1,3 +1,4 @@
+### Challenge
 FlagConverter Part 1
 Category: Forensics
 Difficulty: Easy
